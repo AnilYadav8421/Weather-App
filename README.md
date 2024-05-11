@@ -1,4 +1,6 @@
 # Weather-App
+[Live](https://anilyadav8421.github.io/Weather-App/)
+
 SimpleWeather is a user-friendly weather application designed to help you check the weather quickly and easily.
 
 # How to Use
